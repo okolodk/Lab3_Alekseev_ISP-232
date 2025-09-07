@@ -2,9 +2,24 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
+        enum TrafficLight { Red, Yellow, Green }
+        static void Main(string[] args) { 
+        
+            //Задание 1
+            //var trafficLight = Enum.GetValues(typeof(TrafficLight));
+            //int i = 0;
+            //for (;; )
+            //{
+            //    TrafficLight color = (TrafficLight)trafficLight.GetValue(i);
+            //    Console.WriteLine(color);
+            //    i++;
+                
+            //    if (i > 2) { i = 0; }
+                
+            //}
         }
     }
 }
+
+    
+    
