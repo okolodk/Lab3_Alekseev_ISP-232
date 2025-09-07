@@ -72,6 +72,22 @@
             //}
             //if (res == false) { Console.WriteLine("\"No\""); }
             //else { Console.WriteLine("YES"); }
+            //Задание 9
+            //Console.WriteLine("Добро пожаловать на стрельбище.");
+            //Console.WriteLine("Введить Стоп чтобы прекратить стрельбу");
+            //for (int i = 0; ;i++ )
+            //{
+            //    Console.Write("Нажмите Enter чтобы выстрелить: ");
+            //    string test = Console.ReadLine();
+            //    if ( test == "Стоп") {
+            //        Console.WriteLine("Стрельба завершина.");
+            //        Console.WriteLine($"Израсходованно боеприпассов: {i}");
+            //        break;
+            //    }
+            //    else { Console.WriteLine("Выстрел совершён."); }
+
+            //}
+            
         }
     }
 }
