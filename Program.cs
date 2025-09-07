@@ -19,25 +19,31 @@
 
             //}
             //Задание 2
-        //    OrderStatus statu = OrderStatus.Shipped;
-        //    status_check((OrderStatus)statu);
-            
-        //}
-        //public static void status_check(OrderStatus status)
-        //{
-        //    switch (status) {
-        //        case OrderStatus.New:
-        //        case OrderStatus.Processing:
-        //            Console.WriteLine("Заказ можно отменить");
-        //            break;
-        //        default:
-        //            Console.WriteLine("Заказ нельзя отменить");
-        //            break;
-        //    }
+            //    OrderStatus statu = OrderStatus.Shipped;
+            //    status_check((OrderStatus)statu);
+
+            //}
+            //public static void status_check(OrderStatus status)
+            //{
+            //    switch (status) {
+            //        case OrderStatus.New:
+            //        case OrderStatus.Processing:
+            //            Console.WriteLine("Заказ можно отменить");
+            //            break;
+            //        default:
+            //            Console.WriteLine("Заказ нельзя отменить");
+            //            break;
+            //    }
             //Задание 3
             //for (int i = 10; i > 0; i--)
             //{
             //    Console.WriteLine(i);
+            //}
+            //Задание 4
+            //int num = 5;
+            //for (int i = 1; i < 11; i++)
+            //{
+            //    Console.WriteLine($"5 * {i} = {i * 5}");
             //}
         }
     }
