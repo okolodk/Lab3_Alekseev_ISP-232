@@ -63,6 +63,15 @@
             //{
             //    Console.WriteLine(str);
             //}
+            //Задание 8
+            //bool res = true;
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    int num = Convert.ToInt32(Console.ReadLine());
+            //    if (num % 2 != 0) { res = false; }
+            //}
+            //if (res == false) { Console.WriteLine("\"No\""); }
+            //else { Console.WriteLine("YES"); }
         }
     }
 }
