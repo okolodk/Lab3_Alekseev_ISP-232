@@ -3,7 +3,7 @@
     internal class Program
     {
         //enum TrafficLight { Red, Yellow, Green }
-        public  enum OrderStatus {New, Processing, Shipped, Delivered };
+        //public  enum OrderStatus {New, Processing, Shipped, Delivered };
         static void Main(string[] args) {
 
             //Задание 1
@@ -34,8 +34,12 @@
         //            Console.WriteLine("Заказ нельзя отменить");
         //            break;
         //    }
-            
-        //}
+            //Задание 3
+            //for (int i = 10; i > 0; i--)
+            //{
+            //    Console.WriteLine(i);
+            //}
+        }
     }
 }
 
