@@ -45,6 +45,13 @@
             //{
             //    Console.WriteLine($"5 * {i} = {i * 5}");
             //}
+            //Задание 5
+            //string str = "Запомни: всего одна\r\nошибка и ты ошибся";
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.WriteLine(str);
+            //}
+
         }
     }
 }
